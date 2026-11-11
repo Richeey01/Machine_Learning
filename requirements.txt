@@ -1,0 +1,27 @@
+
+# Machine_Learning — dependencies for practical assignments 1–8
+# Data processing and numerical computations
+numpy
+pandas
+scipy
+
+# Visualizations and exploratory data analysis
+matplotlib
+seaborn
+
+# Machine learning: preprocessing, regression, classification,
+# TF-IDF, Naive Bayes, Random Forest and evaluation metrics
+scikit-learn
+
+# Statistical analysis (e.g. VIF in practical 4)
+statsmodels
+
+# Saving and loading trained models
+joblib
+
+# Gradient boosting (practical 8)
+xgboost
+
+# Jupyter notebooks in VS Code or JupyterLab
+jupyterlab
+ipykernel
